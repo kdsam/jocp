@@ -6,8 +6,8 @@ import java.time.Month;
 public class _011_AnimalEnrichment {
 
     public static void main(String[] args){
-        LocalDate start = LocalDate.of(2015, Month.JANUARY, 1);
-        LocalDate end = LocalDate.of(2015, Month.MARCH, 30);
+        LocalDate start = LocalDate.of(2018, Month.OCTOBER, 1);
+        LocalDate end = LocalDate.of(2018, Month.DECEMBER, 30);
         performAnimalEnrichment(start, end);
     }
 
