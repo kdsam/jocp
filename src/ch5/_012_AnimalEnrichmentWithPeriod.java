@@ -7,8 +7,8 @@ import java.time.Period;
 public class _012_AnimalEnrichmentWithPeriod {
 
     public static void main(String[] args) {
-        LocalDate start = LocalDate.of(2015, Month.JANUARY, 1);
-        LocalDate end = LocalDate.of(2015, Month.MARCH, 30);
+        LocalDate start = LocalDate.of(2018, Month.OCTOBER, 1);
+        LocalDate end = LocalDate.of(2018, Month.DECEMBER, 30);
         Period period = Period.ofMonths(1); // create a period
         performAnimalEnrichment(start, end, period);
     }
