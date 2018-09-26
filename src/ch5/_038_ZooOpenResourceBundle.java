@@ -4,7 +4,7 @@ package ch5;
 import java.util.Locale;
 import java.util.ResourceBundle;
 
-public class _037_ZooOpenResourceBundle {
+public class _038_ZooOpenResourceBundle {
 
     public static void main(String[] args) throws InterruptedException {
 

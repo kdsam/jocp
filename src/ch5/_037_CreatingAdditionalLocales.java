@@ -3,7 +3,7 @@ package ch5;
 
 import java.util.Locale;
 
-public class _036_CreatingAdditionalLocales {
+public class _037_CreatingAdditionalLocales {
 
     public static void main(String[] args) throws InterruptedException {
 
